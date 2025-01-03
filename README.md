@@ -1,7 +1,10 @@
 # [Codecov](https://codecov.io) Javascript Example
 [![codecov](https://codecov.io/github/codecov/example-javascript/branch/main/graph/badge.svg?token=JFXAG3vvev)](https://app.codecov.io/github/codecov/example-javascript)
 
-This example repository shows how Codecov can be integrated with a simple javascript project. It uses **GitHub Actions** as CI/CD providers and **jest** as the coverage provider.
+This repository demonstrates how to integrate Codecov with a JavaScript project, using GitHub Actions for CI/CD and Jest for coverage reporting. Coverage results are automatically uploaded to Codecov via the workflow defined in `.github/workflows/node.js.yml`.
+
+## Results in Codecov dashboard
+![image](https://github.com/user-attachments/assets/06704467-22ec-4cf6-8837-7e55a70bc87d)
 
 For more information, please see the links below.
 
